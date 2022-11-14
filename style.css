@@ -1,0 +1,122 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.nav-n li {
+    list-style: none;
+    display: inline;
+    padding: 12px 30px;
+}
+.nev-items{
+    box-sizing: border-box;
+    float: right;
+    width: 100%;
+    margin-top: 30px;
+}
+.nav-n a{
+    text-decoration: none;
+    color: #f30000;
+}
+.img-logo{
+    width: 30%;
+}
+.logo {
+    margin-top: 10px;
+}
+.container{
+    margin-bottom: 70px;
+}
+.banner{
+    width: 90%;
+}
+.btn a{
+    text-decoration: none;
+    color: white;
+
+}
+.btn:hover{
+    background-color: rgb(48, 184, 48);
+}
+header{
+    background-color: rgb(248, 255, 242);
+    padding: 25px 0px;
+}
+.p-1{
+    color: #ff6767;
+    font-weight: 600;
+}
+.p-2{
+    color: rgb(131, 131, 131);
+}
+.h-1{
+    font-weight: 900;
+    font-size: 50px;
+    color: rgb(54, 54, 54);
+}
+.h-2{
+    font-weight: 900;
+    font-size: 50px;
+    color: rgb(72, 192, 72);
+}
+.btn{
+    background-color: rgb(28, 148, 28);
+    border-radius: 50px;
+    border: none;
+    padding: 10px 30px;
+    font-size: 17px;
+}
+.contact{
+    background-color: rgb(72, 192, 72);
+    border-radius: 33px;
+}
+.contact a{
+    color: white ;
+}
+.img-size{
+    width: 100%;
+}
+
+.img-1{
+    width: 40%;
+}
+.img-2{
+    width: 50%;
+}
+.img-3{
+    width: 45%;
+}
+.img-4{
+    width: 47%;
+}
+.card {
+    border: none ;
+    background-color: rgb(252, 255, 249);
+    padding: 30px 0;
+}
+.card-2{
+    background-color: white;
+    box-shadow: 0 0 15px rgb(212, 212, 212);
+}
+main{
+    margin-top: 80px;
+}
+.icons{
+    margin-bottom: 8%;
+}
+.title{
+    text-align: center;
+    margin-bottom: 3%;
+    color: rgb(0, 0, 78);
+}
+.title h1{
+    font-weight: 900;
+    font-size: 47px;
+}
+.card-body a{
+    font-size: 19px;
+}
+.exe {
+    background-color: white;
+    box-shadow: 0 0 15px rgb(240, 240, 240);
+    padding: 25px 25px;
+}
